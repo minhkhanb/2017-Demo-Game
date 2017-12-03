@@ -1,0 +1,3 @@
+[submodule "HigherHigher/src/game/Lib/PineEngine"]
+	path = HigherHigher/src/game/Lib/PineEngine
+	url = https://github.com/minhkhanb/2017-Dec-PineEngine.git
